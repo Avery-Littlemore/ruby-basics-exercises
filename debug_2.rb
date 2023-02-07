@@ -12,4 +12,4 @@ predict_weather
 
 # because 'false' is a truthy value. 
 # Need to make the sunshine assignments boolean
-# or at the very least, the false value...
+# (or at the very least, the false value...)
