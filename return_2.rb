@@ -1,7 +1,5 @@
 def meal
-  return 'Breakfast'
-  'Dinner'
+  'Evening'
 end
 
 puts meal
-# Breakfast

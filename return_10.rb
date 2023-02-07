@@ -1,17 +1,12 @@
-def count_sheep
-  5.times do |sheep|
-    puts sheep
-    if sheep >= 2
-      return
-    end
-    
+def tricky_number
+  if true
+    number = 1
+  else
+    2
   end
-  10
 end
 
-p count_sheep
+puts tricky_number
 
-# 0
 # 1
-# 2
-# nil
+
